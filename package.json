@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Seamlessly switch from Webpack to Rspack on the fly",
   "dependencies": {
+    "@babel/core": "^7.23.3",
     "@rspack/core": "^0.3.13",
     "arg": "^5.0.2",
     "debug": "^4.3.4"
